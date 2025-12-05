@@ -3,5 +3,8 @@
   "_2": "two",
   "3": "trois",
   "4": "quatre",
-  "_5":"five"
+  "_5": "five",
+  "dog": "os",
+  "_cat": "fish",
+  "mouse": "fromage"
 }
